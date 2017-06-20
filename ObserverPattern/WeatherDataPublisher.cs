@@ -22,6 +22,7 @@ namespace ObserverPattern
             {
                 observer.Update(this.Temp, this.Humiditity, this.Pressure);
             }
+            
         }
 
         public void RegistorObserver(IObserver o)

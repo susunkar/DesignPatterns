@@ -1,0 +1,6 @@
+D:\MyData\OneDrive\Work\Learning\DesignPatterns\DesignPatterns\DecoratorPattern\bin\Debug\DecoratorPattern.dll.config
+D:\MyData\OneDrive\Work\Learning\DesignPatterns\DesignPatterns\DecoratorPattern\bin\Debug\DecoratorPattern.dll
+D:\MyData\OneDrive\Work\Learning\DesignPatterns\DesignPatterns\DecoratorPattern\bin\Debug\DecoratorPattern.pdb
+D:\MyData\OneDrive\Work\Learning\DesignPatterns\DesignPatterns\DecoratorPattern\obj\Debug\DecoratorPattern.csprojResolveAssemblyReference.cache
+D:\MyData\OneDrive\Work\Learning\DesignPatterns\DesignPatterns\DecoratorPattern\obj\Debug\DecoratorPattern.dll
+D:\MyData\OneDrive\Work\Learning\DesignPatterns\DesignPatterns\DecoratorPattern\obj\Debug\DecoratorPattern.pdb

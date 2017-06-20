@@ -29,3 +29,5 @@ D:\MyData\OneDrive\Work\Learning\DesignPatterns\DesignPatterns\UnitTestProject\o
 D:\MyData\OneDrive\Work\Learning\DesignPatterns\DesignPatterns\UnitTestProject\obj\Debug\UnitTestProject.pdb
 D:\MyData\OneDrive\Work\Learning\DesignPatterns\DesignPatterns\UnitTestProject\bin\Debug\ObserverPattern.dll
 D:\MyData\OneDrive\Work\Learning\DesignPatterns\DesignPatterns\UnitTestProject\bin\Debug\ObserverPattern.pdb
+D:\MyData\OneDrive\Work\Learning\DesignPatterns\DesignPatterns\UnitTestProject\bin\Debug\DecoratorPattern.dll
+D:\MyData\OneDrive\Work\Learning\DesignPatterns\DesignPatterns\UnitTestProject\bin\Debug\DecoratorPattern.pdb
