@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FamilyAlgorithm", "DesignPatterns\FamilyAlgorithm.csproj", "{61E4A009-69AD-4269-B1CB-F9E04D82F9B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject", "UnitTestProject\UnitTestProject.csproj", "{B51C4877-5C27-4B1F-8CA5-F7191DCADC7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverPattern", "ObserverPattern\ObserverPattern.csproj", "{DBA635FB-68D2-440A-AFF2-65C3F0F37900}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61E4A009-69AD-4269-B1CB-F9E04D82F9B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61E4A009-69AD-4269-B1CB-F9E04D82F9B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61E4A009-69AD-4269-B1CB-F9E04D82F9B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61E4A009-69AD-4269-B1CB-F9E04D82F9B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B51C4877-5C27-4B1F-8CA5-F7191DCADC7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B51C4877-5C27-4B1F-8CA5-F7191DCADC7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B51C4877-5C27-4B1F-8CA5-F7191DCADC7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B51C4877-5C27-4B1F-8CA5-F7191DCADC7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBA635FB-68D2-440A-AFF2-65C3F0F37900}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBA635FB-68D2-440A-AFF2-65C3F0F37900}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBA635FB-68D2-440A-AFF2-65C3F0F37900}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBA635FB-68D2-440A-AFF2-65C3F0F37900}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
