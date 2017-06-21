@@ -17,5 +17,10 @@ namespace DecoratorPattern
         {
             return 2.5f;
         }
+
+        //public override string GetDescription()
+        //{
+        //    return Description;
+        //}
     }
 }

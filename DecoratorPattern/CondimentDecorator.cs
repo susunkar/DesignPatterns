@@ -8,6 +8,18 @@ namespace DecoratorPattern
 {
     public abstract class CondimentDecorator : BeverageComponet
     {
-        public abstract new string GetDescription();
+        public override string Description
+        {
+            get
+            {
+                return "Add on " + base.Description;
+            }
+
+            set
+            {
+                base.Description = value;
+            }
+        }
+
     }
 }

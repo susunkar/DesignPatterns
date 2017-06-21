@@ -4,3 +4,8 @@ D:\MyData\OneDrive\Work\Learning\DesignPatterns\DesignPatterns\ObserverPattern\b
 D:\MyData\OneDrive\Work\Learning\DesignPatterns\DesignPatterns\ObserverPattern\obj\Debug\ObserverPattern.dll
 D:\MyData\OneDrive\Work\Learning\DesignPatterns\DesignPatterns\ObserverPattern\obj\Debug\ObserverPattern.pdb
 D:\MyData\OneDrive\Work\Learning\DesignPatterns\DesignPatterns\ObserverPattern\obj\Debug\ObserverPattern.csprojResolveAssemblyReference.cache
+D:\My Personal\OneDrive\Work\Learning\DesignPatterns\DesignPatterns\ObserverPattern\bin\Debug\ObserverPattern.dll.config
+D:\My Personal\OneDrive\Work\Learning\DesignPatterns\DesignPatterns\ObserverPattern\bin\Debug\ObserverPattern.dll
+D:\My Personal\OneDrive\Work\Learning\DesignPatterns\DesignPatterns\ObserverPattern\bin\Debug\ObserverPattern.pdb
+D:\My Personal\OneDrive\Work\Learning\DesignPatterns\DesignPatterns\ObserverPattern\obj\Debug\ObserverPattern.dll
+D:\My Personal\OneDrive\Work\Learning\DesignPatterns\DesignPatterns\ObserverPattern\obj\Debug\ObserverPattern.pdb

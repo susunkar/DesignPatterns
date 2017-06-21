@@ -13,16 +13,24 @@ namespace DecoratorPattern
         public Mocha(BeverageComponet bc)
         {
             this.Beverage = bc;
+            this.Description = "Mocha";
         }
         public override float Cost()
         {
             return this.Beverage.Cost() + 3.0f;
         }
 
-        public override string GetDescription()
+        public override string Description
         {
-            return this.Beverage.Description + " Mocha";
-        }
+            get
+            {
+                return Beverage.Description + " " + base.Description;
+            }
 
+            set
+            {
+                base.Description = value;
+            }
+        }
     }
 }

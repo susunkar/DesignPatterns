@@ -10,3 +10,8 @@ D:\MyData\OneDrive\Work\Learning\DesignPatterns\DesignPatterns\DesignPatterns\ob
 D:\MyData\OneDrive\Work\Learning\DesignPatterns\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.dll.config
 D:\MyData\OneDrive\Work\Learning\DesignPatterns\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.dll
 D:\MyData\OneDrive\Work\Learning\DesignPatterns\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.pdb
+D:\My Personal\OneDrive\Work\Learning\DesignPatterns\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.dll.config
+D:\My Personal\OneDrive\Work\Learning\DesignPatterns\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.dll
+D:\My Personal\OneDrive\Work\Learning\DesignPatterns\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.pdb
+D:\My Personal\OneDrive\Work\Learning\DesignPatterns\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.dll
+D:\My Personal\OneDrive\Work\Learning\DesignPatterns\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.pdb

@@ -11,11 +11,14 @@ namespace UnitTestProject
         public void CustomDarkRoastBevarageOrder()
         {
             BeverageComponet beverage = new DarkRoastBeverage();
+            // DarkRoastBeverage beverage1 = new DarkRoastBeverage();
 
-            beverage = new Milk(beverage);
+            //  Console.WriteLine(" cost : {0}", beverage1.Cost());
 
-            Console.WriteLine("{0}", beverage.GetDescription());
-            Console.WriteLine("{0}", beverage.Cost());
+            beverage = new Milk(new Mocha(beverage));
+            
+            Console.WriteLine("Name: {0}", beverage.Description);
+            Console.WriteLine("Total cost: {0}", beverage.Cost());
         }
     }
 }

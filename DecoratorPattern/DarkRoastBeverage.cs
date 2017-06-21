@@ -17,5 +17,9 @@ namespace DecoratorPattern
         {
             return 1f;
         }
+
+       
+
+
     }
 }

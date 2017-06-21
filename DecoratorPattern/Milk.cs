@@ -13,6 +13,7 @@ namespace DecoratorPattern
         public Milk(BeverageComponet bc)
         {
             Beverage = bc;
+            this.Description = "Milk";
         }
 
         public override float Cost()
@@ -20,10 +21,18 @@ namespace DecoratorPattern
             return this.Beverage.Cost() + 4.0f;
         }
 
-      
-        public override string GetDescription()
+
+        public override string Description
         {
-            return this.Beverage.GetDescription()+ " Milk";
+            get
+            {
+                return Beverage.Description + " " +  base.Description;
+            }
+
+            set
+            {
+                base.Description = value;
+            }
         }
     }
 }
